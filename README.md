@@ -16,4 +16,5 @@ OpenSSL is used to create the private key and csr.
 There is no exception handling anywhere in the code, so things might not be stable.
 
 Execute the script with
+
 	python3 ZeroSSL_CertRenew.py
